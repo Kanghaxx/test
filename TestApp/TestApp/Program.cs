@@ -12,6 +12,7 @@ namespace TestApp
         {
             Console.WriteLine("Started");
             Console.WriteLine("Test code");
+            Console.WriteLine("Test code 3");
             Console.WriteLine("Stopped");
             Console.ReadKey();
         }
