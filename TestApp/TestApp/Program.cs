@@ -12,6 +12,7 @@ namespace TestApp
         {
             Console.WriteLine("Started");
             Console.WriteLine("Test code");
+            Console.WriteLine("Code that breaks clear merge of the pull-request");
             Console.WriteLine("Stopped");
             Console.ReadKey();
         }
